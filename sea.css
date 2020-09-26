@@ -1,0 +1,88 @@
+
+.img {
+padding: 5px;
+margin: 6px;
+border-radius: 30px;
+height: 325px;
+width: 200px;
+}
+.cur2 {
+padding: 5px;
+margin: 5px;
+border-radius: 25px;
+height: 150px;
+width: 250px;
+}
+.cur {
+padding: 5px;
+margin: 5px;
+border-radius: 25px;
+height: 160px;
+width: 250px;
+}
+body {
+background: url("https://i.pinimg.com/564x/ab/0d/26/ab0d2662ba75fc755c9c4a76ea6ae613.jpg");
+}
+
+
+
+h1 {
+color: skyblue;
+font-family: monospace;
+border: solid;
+text-align: center;
+margin: 35px;
+border-radius: 60px;
+padding: 10px;
+}
+.p {
+color: SeaShell;
+font-family: monospace;
+border: solid;
+text-align: center;
+margin: 30px;
+border-radius: 30px;
+padding: 15px;
+font-size: 18px;
+}
+.p1 {
+color: mediumaquamarine;
+font-family: monospace;
+border: solid;
+text-align: center;
+margin: 30px;
+border-radius: 30px;
+padding: 15px;
+font-size: 18px;
+}
+
+.p2 {
+color: lightyellow;
+font-family: monospace;
+border: solid;
+text-align: center;
+margin: 30px;
+border-radius: 30px;
+padding: 15px;
+font-size: 18px;
+}
+
+.h {
+color: MistyRose;
+font-family: monospace;
+border: solid;
+text-align: center;
+margin: 30px;
+border-radius: 25px;
+padding: 18px;
+font-size: 20px;
+}
+
+.url {
+padding: 5px;
+margin: 5px;
+border-radius: 100px;
+height: 135px;
+width: 135px;
+}
+

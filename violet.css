@@ -1,0 +1,63 @@
+
+body {
+background: url("https://i.pinimg.com/564x/c9/e1/be/c9e1be3ecb663fa3a4aa10d7f7967206.jpg");
+}
+
+h1 {
+color: mediumorchid;
+font-family: monospace;
+border: solid;
+text-align: center;
+margin: 35px;
+border-radius: 60px;
+padding: 10px;
+}
+.img {
+padding: 5px;
+margin: 5px;
+border-radius: 100px;
+height: 135px;
+width: 135px;
+}
+p {
+font-family: monospace;
+color: darkmagenta;
+border: solid;
+text-align: center;
+margin: 35px;
+border-radius: 60px 0 60px 0;
+padding: 35px;
+font-size: 23px;
+}
+
+.h4 {
+font-family: monospace;
+color: dimgray;
+border: solid;
+text-align: center;
+margin: 35px;
+border-radius: 60px;
+padding: 35px;
+font-size: 18px;
+}
+.img2 {
+padding: 5px;
+margin: 5px;
+border-radius: 50px;
+height: 225px;
+width: 200px;
+}
+img {
+padding: 5px;
+margin: 5px;
+border-radius: 15px;
+height: 450px;
+width: 300px;
+}
+.violet {
+padding: 5px;
+margin: 5px;
+border-radius: 15px;
+height: 150px;
+width: 300px;
+}

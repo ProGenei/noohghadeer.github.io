@@ -1,0 +1,59 @@
+
+body {
+background: url("https://i.pinimg.com/originals/e8/13/29/e813299eae5db09e8bbf7118d1b34099.jpg");
+}
+h1 {
+color: darkcyan;
+font-family: monospace;
+border: solid;
+text-align: center;
+margin: 35px;
+border-radius: 60px;
+padding: 10px;
+}
+p {
+font-family: monospace;
+color: steelblue;
+border: solid;
+text-align: center;
+margin: 35px;
+border-radius: 60px;
+padding: 35px;
+font-size: 20px;
+}
+ul {
+font-family: monospace;
+color: palevioletred;
+border: solid;
+text-align: center;
+margin: 35px;
+border-radius: 60px;
+padding: 40px;
+font-size: 18px;
+}
+img {
+border-radius: 200px;
+text-align: center
+height: 120px;
+width: 120px;
+}
+div {
+font-family: monospace;
+color: sandybrown;
+border: solid;
+text-align: center;
+margin: 35px;
+border-radius: 60px;
+padding: 25px;
+font-size: 15px;
+}
+a {
+text-decoration: none;
+text-align: center;
+color: sandybrown;
+}
+h2 {
+margin: 0px;
+border-radius: 60px;
+padding: 0 120px 0 120px;
+}

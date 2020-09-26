@@ -1,0 +1,42 @@
+h1 {
+color: lightyellow;
+font-family: monospace;
+border: solid;
+text-align: center;
+margin: 35px;
+border-radius: 60px;
+padding: 10px;
+}
+body {
+background-image: url("https://i.pinimg.com/originals/44/aa/6f/44aa6f984157ecac4e47dacf5a7481aa.jpg")
+
+}
+p {
+color: white;
+text-align: center;
+font-size: 18px;
+font-family: courier;
+border-radius: 35px 0 35px 0;
+margin: 15px;
+padding: 15px;
+}
+
+.colors {
+border: solid seagreen;
+}
+
+.violet {
+border: solid violet;
+}
+
+.sea {
+border: solid skyblue;
+}
+.wolves {
+border: solid gray;
+}
+
+a {
+color: white;
+text-decoration: none;
+}
